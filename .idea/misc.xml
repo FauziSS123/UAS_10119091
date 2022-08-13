@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ini clone/UAS_10119091/app/src/main/res/drawable/button.xml" value="0.1785" />
+        <entry key="..\:/ini clone/UAS_10119091/app/src/main/res/drawable/edit_text.xml" value="0.1785" />
+        <entry key="..\:/ini clone/UAS_10119091/app/src/main/res/drawable/ic_empty.xml" value="0.1785" />
+        <entry key="..\:/ini clone/UAS_10119091/app/src/main/res/layout/activity_add_note.xml" value="0.17552083333333332" />
+        <entry key="..\:/ini clone/UAS_10119091/app/src/main/res/layout/activity_login.xml" value="0.17552083333333332" />
+        <entry key="..\:/ini clone/UAS_10119091/app/src/main/res/layout/activity_main.xml" value="0.16145833333333334" />
+        <entry key="..\:/ini clone/UAS_10119091/app/src/main/res/layout/activity_note_list.xml" value="0.17552083333333332" />
+        <entry key="..\:/ini clone/UAS_10119091/app/src/main/res/layout/activity_register.xml" value="0.17552083333333332" />
+        <entry key="..\:/ini clone/UAS_10119091/app/src/main/res/layout/activity_splash_screen.xml" value="0.17552083333333332" />
+        <entry key="..\:/ini clone/UAS_10119091/app/src/main/res/layout/activity_update_note.xml" value="0.16145833333333334" />
+        <entry key="..\:/ini clone/UAS_10119091/app/src/main/res/layout/fragment_fragment1.xml" value="0.17552083333333332" />
+        <entry key="..\:/ini clone/UAS_10119091/app/src/main/res/layout/fragment_fragment2.xml" value="0.17552083333333332" />
+        <entry key="..\:/ini clone/UAS_10119091/app/src/main/res/layout/fragment_fragment3.xml" value="0.17552083333333332" />
+        <entry key="..\:/ini clone/UAS_10119091/app/src/main/res/layout/my_row.xml" value="0.17552083333333332" />
+        <entry key="..\:/ini clone/UAS_10119091/app/src/main/res/menu/delete_list.xml" value="0.17552083333333332" />
+        <entry key="..\:/ini clone/UAS_10119091/app/src/main/res/menu/my_menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/ini clone/UAS_10119091/app/src/main/res/menu/my_nav.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
