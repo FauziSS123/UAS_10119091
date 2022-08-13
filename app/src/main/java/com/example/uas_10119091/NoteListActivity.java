@@ -3,7 +3,6 @@ package com.example.uas_10119091;
 //        nim : 10119091
 //        nama : muhammadrojabinurfauzi
 //        kelas : IF-3
-//        tanggal pengerjaan : 31 Mei 2022
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
