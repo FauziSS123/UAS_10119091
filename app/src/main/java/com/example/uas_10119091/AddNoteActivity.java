@@ -3,7 +3,6 @@ package com.example.uas_10119091;
 //        nim : 10119091
 //        nama : muhammadrojabinurfauzi
 //        kelas : IF-3
-//        tanggal pengerjaan : 1 Juni 2022
 
 import androidx.appcompat.app.AppCompatActivity;
 
