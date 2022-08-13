@@ -1,5 +1,9 @@
 package com.example.uas_10119091;
 
+//        nim : 10119091
+//        nama : muhammadrojabinurfauzi
+//        kelas : IF-3
+
 import android.content.Intent;
 import android.os.Bundle;
 
